@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NeoLive</string>
+    <string name="start_stream">Start Streaming</string>
+    <string name="stop_stream">Stop Streaming</string>
+    <string name="platform_youtube">YouTube</string>
+    <string name="platform_twitch">Twitch</string>
+    <string name="platform_custom">Custom RTMP</string>
+</resources>
